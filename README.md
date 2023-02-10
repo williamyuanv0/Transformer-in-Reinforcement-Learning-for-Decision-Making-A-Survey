@@ -4,7 +4,9 @@ transformer in RL for decision-making
 
 
 
-# Transformer in Reinforcement Learning for Decision-Making: A Survey
+# Transformer in Reinforcement Learning for Decision-Making: A Survey 
+
+(we just upload partial references, and the left will be completed after our paper is published.)
 
 
 # Overview
