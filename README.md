@@ -15,7 +15,7 @@ transformer in RL for decision-making
  - [Application](##Application)
  - [Challenges And Open Problems](##Challenges)
 
-## Transrl Methods
+## TransRL Methods
 **Efficient Transformers in Reinforcement Learning using Actor-Learner Distillation arXiv: Learning**[2021]
 E. Parisotto and R. Salakhutdinov, [[PDF]](https://arxiv.org/pdf/2104.01655.pdf)
 
@@ -86,11 +86,7 @@ Shubham Pateria, Budhitama Subagdja, Ah-Hwee Tan, & Chai Quek  [[PDF]](https://i
 
 
 
-## Representative Transrl Models
 
-## Application
-
-## Challenges And Open Problems
 
 
 
