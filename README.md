@@ -33,7 +33,7 @@ K. Esslinger, R. Platt, and C. Amato,  [[PDF]](https://export.arxiv.org/pdf/2206
 **Language Models are Few-Shot Learners arXiv: Computation and Language**[2020]
 Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Thomas Henighan, Rewon Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Samuel McCandlish, Alec Radford, Ilya Sutskever, & Dario Amodei  [[PDF]](https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
 
-**Offline Reinforcement Learning as One Big Sequence Modeling Problem **[2021]
+**Offline Reinforcement Learning as One Big Sequence Modeling Problem**[2021]
 Michael Janner, Qiyang Li, & Sergey Levine [[PDF]](http://export.arxiv.org/pdf/2106.02039v3.pdf) [[Github]](https://trajectory-transformer.github.io/)
 
 **Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems arXiv: Learning.**[2020]
@@ -69,7 +69,7 @@ Linxi Fan, Guanzhi Wang, Yunfan Jiang, Ajay Mandlekar, Yuncong Yang, Haoyi Zhu, 
 **A Generalist Agent**[2022]
 Scott Reed, Konrad Żołna, Emilio Parisotto, Sergio Gómez Colmenarejo, Alexander Novikov, Gabriel Barth-Maron, Mai Giménez, Yury Sulsky, Jackie Kay, Mahyar Bordbar, & Nando De Freitas [[PDF]](https://export.arxiv.org/pdf/2205.06175v3.pdf)[[Github]](https://github.com/rlworkgroup/metaworld/commit/a0009ed9a208ff9864a5c1368c04c273bb20dd06)
 
-** Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Tackles All SMAC Tasks**[2022]
+**Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Tackles All SMAC Tasks**[2022]
 Linghui Meng, Muning Wen, Yaodong Yang, Chenyang Le, Xiyun Li, Weinan Zhang, Ying Wen, Haifeng Zhang, Jun Wang, & Bo Xu [[PDF]](http://export.arxiv.org/pdf/2112.02845v3.pdf)[[Github]](https://github.com/ReinholdM/Offline-Pre-trained-Multi-Agent-Decision-Transformer)
 
 **Gradient Surgery for Multi-Task Learning Cornell University**[2020]
