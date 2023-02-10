@@ -5,7 +5,7 @@ transformer in RL for decision-making
 
 
 # Transformer in Reinforcement Learning for Decision-Making: A Survey
-Weilin Yuan, Jiaxing Chen, Shaofei Chen*, Lina Lu*, Zhenzhen Hu, Peng Li, Dawei Feng, Furong Liu Jing Chen
+Weilin Yuan, Jiaxing Chen, Shaofei Chen, Lina Lu, Zhenzhen Hu, Peng Li, Dawei Feng, Furong Liu Jing Chen
 
 
 # Overview
