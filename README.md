@@ -487,39 +487,7 @@ J. Davis, A. Gu, K. Choromanski, T. Dao, C. R ́e, C. Finn, and P.Liang[[PDF]](h
 **Understanding the Difficulty of Training Transformers**[2020]
 L. Liu, X. Liu, J. Gao, W. Chen, and J.A. Baevski and M Han[[PDF]](https://arxiv.org/pdf/2004.08249.pdf)[[Github]](https://github.com/LiyuanLucasLiu/Transforemr-Clinic) 
 
-## Expensive Memory and Computation
-
-**BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**[2019]
-Jacob Devlin, Ming-Wei Chang, Kenton Lee, & Kristina Toutanova[[PDF]](https://arxiv.org/pdf/1810.04805.pdf)[[Github]](https://github.com/google-research/bert.)
-
-**Unsupervised Cross-lingual Representation Learning at Scale**[2020]
-A. Conneau, K. Khandelwal, N. Goyal, V. Chaudhary, G. Wenzek, F. Guzm ́an, E. Grave, M. Ott, L. Zettlemoyer, and V. Stoyanov[[PDF]](https://arxiv.org/pdf/1911.02116.pdf)[[Github]](https://github.com/facebookresearch/(fairseq-py,pytext,xlm))
-
-**Language Models are Unsupervised Multitask Learners**[2019]
-Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, & Ilya Sutskeve[[PDF]](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)[[Github]](https://github.com/codelucas/newspaper)
-
-**DeepNet: Scaling Transformers to 1,000 Layers**[2022]
-H. Wang, S. Ma, L. Dong, S. Huang, D. Zhang, and F. Wei[[PDF]](http://export.arxiv.org/pdf/2203.00555v1.pdf)[[Github]](https://github.com/microsoft/unilm)
-
-**Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer**[2020]
-Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, & Peter J. Liu[[PDF]](https://arxiv.org/pdf/1910.10683.pdf)[[Github]]( https://github.com/google-research/text-to-text-transfer-transformer)
-
-**GLaM: Efficient Scaling of Language Models with Mixture-of-Experts**[2022]
-N. Du, Y. Huang, A. M. Dai, S. Tong, D. Lepikhin, Y. Xu, M. Krikun, Y. Zhou, A. W. Yu, O. Firat, B. Zoph, L. Fedus, M. Bosma, Z. Zhou, T. Wang, Y. E. Wang, K. Webster, M. Pellat, K. Robinson, K. MeierHellstern, T. Duke, L. Dixon, K. Zhang, Q. V. Le, Y. Wu, Z. Chen, and C. Cui[[PDF]](https://export.arxiv.org/pdf/2112.06905v2.pdf)
-
-**Scaling Laws for Neural Language Models**[2020]
-J. Kaplan, S. McCandlish, T. Henighan, T. B. Brown, B. Chess, R. Child, S. Gray, A. Radford, J. Wu, and D. Amodei[[PDF]](https://arxiv.org/abs/2001.08361)
-
-**Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism**[2022]
-X. Miao, Y. Wang, Y. Jiang, C. Shi, X. Nie, H. Zhang, and B. Cui[[PDF]](https://export.arxiv.org/pdf/2211.13878v1.pdf)
-
-**TorchScale: Transformers at Scale**[2022]
-S. Ma, H. Wang, S. Huang, W. Wang, Z. Chi, L. Dong, A. Benhaim, B. Patra, V. Chaudhary, X. Song, and F. Wei[[PDF]](https://export.arxiv.org/pdf/2211.13184v1.pdf)
-
-**Random-LTD: Random and Layerwise Token Dropping Brings Efficient Training for Large-scale Transformers**[2022]
-Z. Yao, X. Wu, C. Li, C. Holmes, M. Zhang, C. Li, and Y. He[[PDF]](https://export.arxiv.org/pdf/2211.11586v1.pdf)[[Github]](https://github.com/microsoft/DeepSpeed)
-
-**An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale**
+**An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale**[2020]
 A. Dosovitskiy, L. Beyer, A. Kolesnikov, D. Weissenborn, X. Zhai, T. Unterthiner, M. Dehghani, M. Minderer, G. Heigold, S. Gelly, J. Uszkoreit, and N. Houlsby[[PDF]](https://readpaper.com/pdf-annotate/note?noteId=1648120269757300224)[[Github]](https://github.com/csrhddlam/axial-deeplab)
 
 **The Arcade Learning Environment: An Evaluation Platform for General Agents**[2013]
@@ -602,6 +570,39 @@ E. Parisotto, H. F. Song, J. W. Rae, R. Pascanu, C. Gulcehre, S. M. Jayakumar, M
 
 **2048**[2014]
 G. Cirulli
+## Expensive Memory and Computation
+
+**BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**[2019]
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, & Kristina Toutanova[[PDF]](https://arxiv.org/pdf/1810.04805.pdf)[[Github]](https://github.com/google-research/bert.)
+
+**Unsupervised Cross-lingual Representation Learning at Scale**[2020]
+A. Conneau, K. Khandelwal, N. Goyal, V. Chaudhary, G. Wenzek, F. Guzm ́an, E. Grave, M. Ott, L. Zettlemoyer, and V. Stoyanov[[PDF]](https://arxiv.org/pdf/1911.02116.pdf)[[Github]](https://github.com/facebookresearch/(fairseq-py,pytext,xlm))
+
+**Language Models are Unsupervised Multitask Learners**[2019]
+Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, & Ilya Sutskeve[[PDF]](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)[[Github]](https://github.com/codelucas/newspaper)
+
+**DeepNet: Scaling Transformers to 1,000 Layers**[2022]
+H. Wang, S. Ma, L. Dong, S. Huang, D. Zhang, and F. Wei[[PDF]](http://export.arxiv.org/pdf/2203.00555v1.pdf)[[Github]](https://github.com/microsoft/unilm)
+
+**Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer**[2020]
+Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, & Peter J. Liu[[PDF]](https://arxiv.org/pdf/1910.10683.pdf)[[Github]]( https://github.com/google-research/text-to-text-transfer-transformer)
+
+**GLaM: Efficient Scaling of Language Models with Mixture-of-Experts**[2022]
+N. Du, Y. Huang, A. M. Dai, S. Tong, D. Lepikhin, Y. Xu, M. Krikun, Y. Zhou, A. W. Yu, O. Firat, B. Zoph, L. Fedus, M. Bosma, Z. Zhou, T. Wang, Y. E. Wang, K. Webster, M. Pellat, K. Robinson, K. MeierHellstern, T. Duke, L. Dixon, K. Zhang, Q. V. Le, Y. Wu, Z. Chen, and C. Cui[[PDF]](https://export.arxiv.org/pdf/2112.06905v2.pdf)
+
+**Scaling Laws for Neural Language Models**[2020]
+J. Kaplan, S. McCandlish, T. Henighan, T. B. Brown, B. Chess, R. Child, S. Gray, A. Radford, J. Wu, and D. Amodei[[PDF]](https://arxiv.org/abs/2001.08361)
+
+**Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism**[2022]
+X. Miao, Y. Wang, Y. Jiang, C. Shi, X. Nie, H. Zhang, and B. Cui[[PDF]](https://export.arxiv.org/pdf/2211.13878v1.pdf)
+
+**TorchScale: Transformers at Scale**[2022]
+S. Ma, H. Wang, S. Huang, W. Wang, Z. Chi, L. Dong, A. Benhaim, B. Patra, V. Chaudhary, X. Song, and F. Wei[[PDF]](https://export.arxiv.org/pdf/2211.13184v1.pdf)
+
+**Random-LTD: Random and Layerwise Token Dropping Brings Efficient Training for Large-scale Transformers**[2022]
+Z. Yao, X. Wu, C. Li, C. Holmes, M. Zhang, C. Li, and Y. He[[PDF]](https://export.arxiv.org/pdf/2211.11586v1.pdf)[[Github]](https://github.com/microsoft/DeepSpeed)
+
+
 ## Stochastic Effectiveness
 
 **Addressing Optimism Bias in Sequence Modeling for Reinforcement Learning**[2022]
