@@ -96,7 +96,7 @@ Rishi Bommasani et al.  [[PDF]](https://export.arxiv.org/pdf/2108.07258v3.pdf)
 Kevin Lu, Aditya Grover, Pieter Abbeel, & Igor Mordatch[[PDF]](https://export.arxiv.org/pdf/2103.05247.pdf)[[Github]](https://github.com/kzl/universal-computation)
 
 **Online Decision Transformer**[2022]
-Qinqing Zheng, Amy Zhang, & Aditya Grover  [[PDF]](https://export.arxiv.org/pdf/2202.05607v2.pdf)
+Qinqing Zheng, Amy Zhang, & Aditya Grover[[PDF]](https://export.arxiv.org/pdf/2202.05607v2.pdf)
 
 **Can Wikipedia Help Offline Reinforcement Learning?**[2022]
 Machel Reid, Yutaro Yamada, & Shixiang Shane Gu[[PDF]](https://export.arxiv.org/pdf/2201.12122v3.pdf)[[Github]](https://github.com/machelreid/can-wikipedia-help-offline-rl)
@@ -114,22 +114,21 @@ Linghui Meng, Muning Wen, Yaodong Yang, Chenyang Le, Xiyun Li, Weinan Zhang, Yin
 Tianhe Yu, Saurabh Kumar, Abhishek Gupta, Sergey Levine, Karol Hausman, & Chelsea Finn [[PDF]](https://papers.nips.cc/paper/2020/file/3fe78a8acf5fda99de95303940a2420c-Paper.pdf)[[Github]](https://github.com/tianheyu927/PCGrad)
 
 **Pretraining in Deep Reinforcement Learning: A Survey**[2022]
-Zhihui Xie, Zichuan Lin, Junyou Li, Shuai Li, & Deheng Ye (2022). 
- [[PDF]](https://export.arxiv.org/pdf/2211.03959v1.pdf)
+Zhihui Xie, Zichuan Lin, Junyou Li, Shuai Li, & Deheng Ye[[PDF]](https://export.arxiv.org/pdf/2211.03959v1.pdf)
 
 ## Trasnformer-based Hierarchical Reinforcement Learning
 
 **Hierarchical Reinforcement Learning: A Comprehensive Survey ACM Computing Surveys**[2021]
-Shubham Pateria, Budhitama Subagdja, Ah-Hwee Tan, & Chai Quek  [[PDF]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=7054&context=sis_research)
+Shubham Pateria, Budhitama Subagdja, Ah-Hwee Tan, & Chai Quek[[PDF]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=7054&context=sis_research)
 
 **Hierarchical Decision Transformer**[2022]
-Andr\'e Correia, & Lu\'is A. Alexandre  [[PDF]](https://export.arxiv.org/pdf/2209.10447v1.pdf)
+Andr\'e Correia, & Lu\'is A. Alexandre[[PDF]](https://export.arxiv.org/pdf/2209.10447v1.pdf)
 
 **Reinforcement Learning with Hierarchies of Machines**[1997]
-Ronald Parr, & Stuart Russell [[PDF]](https://axon.cs.byu.edu/Dan/778/papers/Hierarchical%20Reinforcement%20Learning/Parr*.pdf)
+Ronald Parr, & Stuart Russell[[PDF]](https://axon.cs.byu.edu/Dan/778/papers/Hierarchical%20Reinforcement%20Learning/Parr*.pdf)
 
 **Learning Multi-Level Hierarchies with Hindsight**[2017]
-Andrew Levy, George Konidaris, Robert W. Platt, & Kate Saenko  [[PDF]](https://export.arxiv.org/pdf/1712.00948.pdf)[[Github]](https://github.com/andrew-j-levy/Hierarchical-Actor-Critc-HAC-)
+Andrew Levy, George Konidaris, Robert W. Platt, & Kate Saenko [[PDF]](https://export.arxiv.org/pdf/1712.00948.pdf)[[Github]](https://github.com/andrew-j-levy/Hierarchical-Actor-Critc-HAC-)
 
 ## Transformer-based Multi-agent Reinforcement Learning
 
@@ -520,6 +519,89 @@ S. Ma, H. Wang, S. Huang, W. Wang, Z. Chi, L. Dong, A. Benhaim, B. Patra, V. Cha
 **Random-LTD: Random and Layerwise Token Dropping Brings Efficient Training for Large-scale Transformers**[2022]
 Z. Yao, X. Wu, C. Li, C. Holmes, M. Zhang, C. Li, and Y. He[[PDF]](https://export.arxiv.org/pdf/2211.11586v1.pdf)[[Github]](https://github.com/microsoft/DeepSpeed)
 
+**An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale**
+A. Dosovitskiy, L. Beyer, A. Kolesnikov, D. Weissenborn, X. Zhai, T. Unterthiner, M. Dehghani, M. Minderer, G. Heigold, S. Gelly, J. Uszkoreit, and N. Houlsby[[PDF]](https://readpaper.com/pdf-annotate/note?noteId=1648120269757300224)[[Github]](https://github.com/csrhddlam/axial-deeplab)
+
+**The Arcade Learning Environment: An Evaluation Platform for General Agents**[2013]
+M. G. Bellemare, Y. Naddaf, J. Veness, and M. Bowling[[PDF]](https://arxiv.org/pdf/1207.4708.pdf)
+
+**D4RL: Datasets for Deep Data-Driven Reinforcement Learning**[2021]
+J. Fu, A. Kumar, O. Nachum, G. Tucker, and S. Levine[[PDF]](https://arxiv.org/pdf/2004.07219.pdf)
+
+**Speech understanding systems: summary of results of the five-year research effort at Carnegie-Mellon University**[1977]
+C. M. U. C. S. Dept[[PDF]](https://kilthub.cmu.edu/articles/journal_contribution/Speech_understanding_systems_summary_of_results_of_the_five-year_research_effort_at_Carnegie-Mellon_University_/6609821/1)
+
+**Learning policies for partially observable environments: scaling up**[1997]
+ M. L. Littman, A. R. Cassandra, and L. P. Kaelbling[[PDF]](https://www.sciencedirect.com/science/article/pii/B9781558603776500529)
+
+**Imagination-Augmented Agents for Deep Reinforcement Learning**[2018]
+S. Racani`ere, T. Weber, D. P. Reichert, L. Buesing, A. Guez, D. J. Rezende, A. P. Badia, O. Vinyals, N. Heess, Y. Li, R. Pascanu, P. W. Battaglia, D. Hassabis, D. Silver, and D. Wierstra[[PDF]](https://readpaper.com/pdf-annotate/note?pdfId=4500306879196061697&noteId=1651659371932892672)
+
+**DeepMind Lab**[2016]
+C. Beattie, J. Z. Leibo, D. Teplyashin, T. Ward, M. Wainwright, H. K ̈uttler, A. Lefrancq, S. Green, V. Vald ́es, A. Sadik, J. Schrittwieser, K. Anderson, S. York, M. Cant, A. Cain, A. Bolton, S. Gaffney, H. King, D. Hassabis, S. Legg, and S. Petersen[[PDF]](https://arxiv.org/pdf/1612.03801v2/n)
+
+**BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning**[2019]
+M. Chevalier-Boisvert, D. Bahdanau, S. Lahlou, L. Willems, C. Saharia, T. H. Nguyen, and Y.Bengio[[PDF]](http://export.arxiv.org/pdf/1810.08272v3.pdf)[[Github]](https://github.com/mila-iqia/babyai/tree/iclr19)
+
+**What Matters in Learning from Offline Human Demonstrations for Robot Manipulation**[2021]
+A. Mandlekar, D. Xu, J. Wong, S. Nasiriany, C. Wang, R. Kulkarni, L. Fei-Fei, S. Savarese, Y. Zhu, and R. Mart ́ın-Mar[[PDF]](http://export.arxiv.org/pdf/2108.03298v1.pdf)[[Github]](https://arise-initiative.github.io/robomimic-web/)
+
+**Towards Human-Level Bimanual Dexterous Manipulation with Reinforcement Learning**[2022]
+Chen, Y. Yang, T. Wu, S. Wang, X. Feng, J. Jiang, S. M. McAleer, H. Dong, Z. Lu, and S.-C. Zhu[[PDF]](https://export.arxiv.org/pdf/2206.08686v2.pdf)[[Github]](https://github.com/PKU-MARL/DexterousHands)
+
+**Stabilizing Voltage in Power Distribution Networks via Multi-Agent Reinforcement Learning with Transformer**[2022]
+M. Wang, M. Feng, W. Zhou, and H. Li[[PDF]](https://export.arxiv.org/pdf/2206.03721.pdf)[[Github]](https://github.com/cjdjr/T-MAAC)
+
+**Multi-Agent Reinforcement Learning for Active Voltage Control on Power Distribution Networks**[2021]
+J. Wang, W. Xu, Y. Gu, W. Song, and T. C. Green[[PDF]](http://export.arxiv.org/pdf/2110.14300v4.pdf)[[Github]](https://github.com/Future-Power-Networks/MAPDN)
+
+**Combining Reinforcement Learning and Optimal Transport for the Traveling Salesman Problem**[2022]
+Y. L. Goh, W. S. Lee, X. Bresson, T. Laurent, and N. Lim[[PDF]](https://export.arxiv.org/pdf/2203.00903.pdf)
+
+**Structure-Aware Transformer Policy for Inhomogeneous Multi-Task Reinforcement Learning**[2022]
+S. Hong, D. Yoon, and K.-E. Kim[[PDF]](https://openreview.net/forum?id=fy_XRVHqly)
+
+**Addressing Function Approximation Error in Actor-Critic Methods**[2018]
+S. Fujimoto, H. van Hoof, and D. Meger[[PDF]](http://export.arxiv.org/pdf/1802.09477v3.pdf)[[Github]](https://github.com/sfujim/TD3)
+ 
+**One Policy to Control Them All: Shared Modular Policies for Agent-Agnostic Control**[2020]
+W. Huang, I. Mordatch, and D. Pathak [[PDF]](https://arxiv.org/pdf/2007.04976.pdf)[[Github]](https://huangwl18.github.io/modular-rl/)
+ 
+**Distributed Multi-Agent Deep Reinforcement Learning for Robust Coordination against Noise**[]2022]
+Y. Motokawa and T. Sugawara[[PDF]](https://export.arxiv.org/pdf/2205.09705.pdf)
+
+**Implicit Quantile Networks for Distributional Reinforcement Learning**[2018]
+W. Dabney, G. Ostrovski, D. Silver, and R. Munos[[PDF]](http://export.arxiv.org/pdf/1806.06923v1.pdf)
+
+**Multi-Game Decision Transformers**[2022]
+K.-H. Lee, O. Nachum, M. Yang, L. Lee, D. Freeman, W. Xu, S. Guadarrama, I. Fischer, E. Jang, H. Michalewski, and I. Mordatch[[PDF]](https://export.arxiv.org/pdf/2205.15241v2.pdf)
+
+**Silver-Bullet-3D at ManiSkill 2021: Learning-from-Demonstrations and Heuristic Rule-based Methods for Object Manipulation**[2022]
+Y. Pan, Y. Li, Y. Zhang, Q. Cai, F. Long, Z. Qiu, T. Yao, and T. Mei[[PDF]](https://export.arxiv.org/pdf/2206.06289.pdf)[[Github]](https://github.com/caiqi/Silver-Bullet-3D/)
+
+**ManiSkill: Generalizable Manipulation Skill Benchmark with Large-Scale Demonstrations**[2020]
+T. Mu, Z. Ling, F. Xiang, D. Yang, X. Li, S. Tao, Z. Huang, Z. Jia, and H. Su[[PDF]](https://export.arxiv.org/pdf/2107.14483.pdf)[[Github]](https://github.com/haosulab/ManiSkill)
+
+**A learning algorithm for continually running fully recurrent neural networks**[1989]
+ R. J. Williams and D. Zipser[[PDF]](https://direct.mit.edu/neco/article-abstract/1/2/270/5490/A-Learning-Algorithm-for-Continually-Running-Fully)
+
+**SMARTS: Scalable Multi-Agent Reinforcement Learning Training School for Autonomous Driving**[2020]
+M. Zhou, J. Luo, J. Villela, Y. Yang, D. Rusu, J. Miao, W. Zhang, M. Alban, I. Fadakar, Z. Chen, A. C. Huang, Y. Wen, K. Hassanzadeh, D. Graves, D. Chen, Z. Zhu, N. M. Nguyen, M. A. Elsayed, K. Shao, S. Ahilan, B. Zhang, J. Wu, Z. Fu, K. Rezaee, P. Yadmellat, M. Rohani, N. P. Nieves, Y. Ni, S. Banijamali, A. I. Cowen-Rivers, Z. Tian, D. Palenicek, H. Bou-Ammar, H. Zhang, W. Liu, J. Hao, and J. Wang[[PDF]](https://arxiv.org/pdf/2010.09776.pdf)[[Github]](https://github.com/huawei-noah/SMARTS)
+
+**CARLA: An Open Urban Driving Simulato**[2017]
+A. Dosovitskiy, G. Ros, F. Codevilla, A. M. L ́opez, and V. Koltu[[PDF]](https://arxiv.org/pdf/1711.03938.pdf)
+
+**Catformer: Designing Stable Transformers via Sensitivity Analysis**[2021]
+J. Davis, A. Gu, K. Choromanski, T. Dao, C. R ́e, C. Finn, and P. Lian[[PDF]](http://proceedings.mlr.press/v139/davis21a/davis21a.pdf)
+
+**Recurrent Experience Replay in Distributed Reinforcement Learning**[2019]
+S. Kapturowski, G. Ostrovski, J. Quan, R. Munos, and W. Dabney[[PDF]](https://openreview.net/pdf?id=r1lyTjAqYX)
+
+**Stabilizing Transformers for Reinforcement Learning**[2020]
+E. Parisotto, H. F. Song, J. W. Rae, R. Pascanu, C. Gulcehre, S. M. Jayakumar, M. Jaderberg, R. L. Kaufman, A. Clark, S. Noury, M. Botvinick, N. Heess, and R. Hadsell[[PDF]](https://export.arxiv.org/pdf/1910.06764.pdf)[[Github]](https://github.com/kimiyoung/transformer-xl)
+
+**2048**[2014]
+G. Cirulli
 ## Stochastic Effectiveness
 
 **Addressing Optimism Bias in Sequence Modeling for Reinforcement Learning**[2022]
